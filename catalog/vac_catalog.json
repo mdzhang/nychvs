@@ -1,7 +1,10 @@
-Unmatched var recid
-Bad label line uf33='Stories in building';
-
 [
+  {
+    "idx": "1",
+    "item": "Record Type",
+    "len": "1",
+    "var": "recid"
+  },
   {
     "idx": "2",
     "item": "Borough",
@@ -190,6 +193,7 @@ Bad label line uf33='Stories in building';
   },
   {
     "idx": "36",
+    "item": "Stories in building",
     "len": "2",
     "var": "uf33"
   },
