@@ -1,0 +1,268 @@
+idx,var,len,item
+1,recid,1,Record Type
+2,boro,1,Borough
+4,uf1_1,1,External Walls--Missing brick and sloping walls
+5,uf1_3,1,External Walls--Major cracks in walls
+6,uf1_4,1,External Walls--Loose or hanging cornice
+7,uf1_5,1,External Walls--No problems
+8,uf1_6,1,External Walls--Unable to observe
+9,uf1_7,1,Condition of Windows--Broken/missing
+10,uf1_8,1,Condition of Windows--Rotten/loose
+11,uf1_9,1,Condition of Windows--Boarded-up
+12,uf1_10,1,Condition of Windows--No problems
+13,uf1_11,1,Condition of Windows--Unable to observe
+14,uf1_12,1,Condition of Stairways--Loose/broken railings
+15,uf1_13,1,Condition of Stairways--Loose/broken steps
+16,uf1_14,1,Condition of Stairways--No problems
+17,uf1_15,1,Condition of Stairways--No interior steps
+18,uf1_16,1,Condition of Stairways--No exterior steps
+19,uf1_35,1,Condition of Stairways--Unable to observe
+20,uf1_17,1,Condition of Floors--Sagging/sloping and slanted doors
+21,uf1_19,1,Condition of Floors--Deep wear
+22,uf1_20,1,Condition of Floors--Holes/missing flooring
+23,uf1_21,1,Condition of Floors--None of these problems
+24,uf1_22,1,Condition of Floors--Unable to observe
+26,sc23,1,Condition of building
+27,sc24,1,Broken/Boarded Windows--observation
+28,sc36,1,Wheelchair accessibility--Street entry
+29,sc37,1,Wheelchair accessibility--Elevator
+30,sc38,1,Wheelchair accessibility--Unit entrance
+33,hhr2,1,Sex of householder
+34,hhr3t,2,Age of householder
+36,hhr5,1,Hispanic origin
+37,uf61,2,Race of householder
+60,uf2a_1,1,Number of persons from temporary residence
+61,uf79,2,Most recent place lived
+66,uf66,4,Year Householder Moved into Unit Recode
+70,sc54,1,First occupants of unit
+71,uf67,2,Reason for moving
+73,sc111,2,Place of birth-householder
+75,sc112,2,Place of birth-father
+77,sc113,2,Place of birth-mother
+79,sc114,1,Coop/condo status
+80,sc115,1,Tenure(1)
+81,sc116,1,Tenure(2)
+82,sc117,1,Lived in unit at time of coop/condo conversion
+83,sc118,1,Coop/condo conv. through a non-eviction plan
+88,sc120,1,Occupancy status before acquisition
+89,sc121,1,Condo/Coop before acquisition
+98,uf5,7,Down payment(1)
+105,sc125,1,Down payment(2)
+106,uf6,7,Value
+113,sc127,1,Mortgage status
+120,uf68,4,When Did Most Recent Mortgage Originate
+124,uf7a,4,Current Interest Rate
+131,sc141,1,Fire and liability insurance paid separately
+132,sc144,1,Real estate taxes paid separately
+140,uf47,2,Units in building
+142,sc147,1,Owner in building
+143,uf11,2,Stories in building
+147,sc149,1,Elevator in building
+148,sc173,1,Sidewalk to elevator
+149,sc171,1,Sidewalk to unit
+150,uf77,2,Number of rooms
+152,uf78,2,Number of bedrooms
+154,uf81,1,Complete plumbing facilities
+155,uf82,1,Toilet breakdown
+156,uf83,1,Complete kitchen facilities
+158,sc157,1,Kitchen facilities functioning
+159,sc158,1,Type of heating fuel
+160,sc159,1,Electricity-paid separately
+161,uf12,4,Monthly electricity cost
+165,sc161,1,Gas-paid separately
+166,uf13,4,Monthly gas cost
+170,uf14,4,Combined gas/electricity
+174,sc164,1,Water and sewer-paid separately
+175,uf15,4,Yearly water and sewer cost
+179,sc166,1,Other fuels-paid separately
+180,uf16,5,Yearly cost for other fuels
+191,uf17,5,Contract rent
+196,sc181,1,Length of lease
+206,sc541,1,Federal section 8
+223,uf17a,5,Out of pocket rent
+228,sc185,1,Heating equipment breakdown
+229,sc186,1,Number of heating breakdowns
+230,sc197,1,Functioning Air Conditioning
+236,sc187,1,Additional sources of heat
+237,sc188,1,Presence of mice and rates
+238,sc571,1,Number of Cockroaches
+239,sc189,1,Exterminator service
+240,sc190,1,Cracks/holes in interior walls
+241,sc191,1,Holes in floors
+242,sc192,1,Broken plaster/peeling paint
+243,sc193,1,Plaster/paint> 8.5 x 11
+244,sc194,1,Water leakage
+245,sc196,1,Respondent rating of structures in neighborhood
+256,sc575,1,Land-line Telephone in House
+257,uf72,1,Number of Adults with a cell phone
+259,sc574,1,General Health (respondent)
+260,sc198,1,Medical device in home
+261,sc647,1,Dental
+262,sc648,1,Preventative care/check-up
+263,sc649,1,Mental health
+264,sc650,1,Treatment or diagnosis of illness
+265,sc651,1,Prescription drugs
+266,sc131,1,One or more utility
+267,sc132,1,Landline telephone
+268,sc136,1,Cell phone
+269,sc137,1,Cable/internet
+270,sc138,1,Other
+271,sc168,1,Affordable
+272,sc169,1,Too expensive given its condition
+273,sc183,1,Too expensive given its location
+274,sc560,1,Moved to the US as immigrant
+275,uf53,4,Year moved to US as immigrant
+279,uf54,4,Year moved to NYC
+412,uf_csr,2,New control status recode
+414,uf74,2,Structure class recode
+416,uf76,2,Type of schedule code
+419,uf23,2,Year built recode
+421,rec21,1,Condition of unit recode
+422,uf71,2,Respondent line number
+424,rec1,2,Household composition recode
+426,uf46,1,Presence of nonrelatives
+427,uf69,1,Race and Ethnicity of householder
+428,uf60,1,Race Recode 1
+429,uf105,6,Monthly owner cost recode
+438,rec54,1,Number of 1987 maintenance deficiencies
+439,rec53,1,Number of 2017 maintenance deficiencies
+440,tot_per,2,Total persons recode
+442,cppr,3,Persons per room
+445,uf26,5,Monthly gross rent
+450,uf28,4,Monthly gross rent per room recode
+454,uf27,4,Monthly contract rent per room recode
+458,rec39,1,Household below poverty
+459,uf42,7,Household income recode
+466,uf42a,1,Household income flag
+467,uf34,7,Salary
+474,uf34a,1,Salary flag
+475,uf35,7,Business income
+482,uf35a,1,Business income flag
+483,uf36,7,Interest income
+490,uf36a,1,Interest income flag
+491,uf37,7,Retirement income (1)
+498,uf37a,1,Retirement income (1) flag
+499,uf38,7,Government income
+506,uf38a,1,Government income flag
+507,uf39,7,Retirement income (2)
+514,uf39a,1,Retirement income (2) flag
+515,uf40,7,Other income
+522,uf40a,1,Other income flag
+526,cd,2,Sub-borough area
+528,uf30,4,Gross rent/income ratio
+532,uf29,4,Contract rent/income ratio
+536,uf75,1,Household members under 6
+537,rec7,1,Household members under 18
+538,fw,9.5,Household weight
+547,chufw,9.5,Final household weight
+556,seqno,6,Sequence number
+571,flg_sx1,1,Sex of householder
+572,flg_ag1,1,Age of householder
+573,flg_hs1,1,Hispanic Origin
+574,flg_rc1,1,Race of householder
+575,hflag2,1,Year moved in flag
+576,hflag1,1,Year acquired flag
+577,hflag13,1,Value flag
+578,hflag6,1,Stories in building flag
+579,hflag3,1,Rooms/Bedrooms flag
+580,hflag14,1,Plumbing facilities flag
+581,hflag16,1,Kitchen facilities flag
+582,hflag7,1,Type of heating fuel flag
+583,hflag9,1,Electricity cost flag
+584,hflag10,1,Gas cost flag
+585,hflag91,1,Combined gas/electricity cost flag
+586,hflag11,1,Water and sewer cost flag
+587,hflag12,1,Other fuels cost flag
+588,hflag4,1,Contract rent flag
+589,hflag18,1,Rental assistance flag
+591,uf52h_h,1,Household income flag
+592,uf52h_a,1,Salary income flag
+593,uf52h_b,1,Business income flag
+594,uf52h_c,1,Interest income flag
+595,uf52h_d,1,Retirement income(1) flag
+596,uf52h_e,1,Government income flag
+597,uf52h_f,1,Retirement income(2) flag
+598,uf52h_g,1,Other income flag
+599,fw1,9,Replicate Weight #1
+608,fw2,9,Replicate Weight #2
+617,fw3,9,Replicate Weight #3
+626,fw4,9,Replicate Weight #4
+635,fw5,9,Replicate Weight #5
+644,fw6,9,Replicate Weight #6
+653,fw7,9,Replicate Weight #7
+662,fw8,9,Replicate Weight #8
+671,fw9,9,Replicate Weight #9
+680,fw10,9,Replicate Weight #10
+689,fw11,9,Replicate Weight #11
+698,fw12,9,Replicate Weight #12
+707,fw13,9,Replicate Weight #13
+716,fw14,9,Replicate Weight #14
+725,fw15,9,Replicate Weight #15
+734,fw16,9,Replicate Weight #16
+743,fw17,9,Replicate Weight #17
+752,fw18,9,Replicate Weight #18
+761,fw19,9,Replicate Weight #19
+770,fw20,9,Replicate Weight #20
+779,fw21,9,Replicate Weight #21
+788,fw22,9,Replicate Weight #22
+797,fw23,9,Replicate Weight #23
+806,fw24,9,Replicate Weight #24
+815,fw25,9,Replicate Weight #25
+824,fw26,9,Replicate Weight #26
+833,fw27,9,Replicate Weight #27
+842,fw28,9,Replicate Weight #28
+851,fw29,9,Replicate Weight #29
+860,fw30,9,Replicate Weight #30
+869,fw31,9,Replicate Weight #31
+878,fw32,9,Replicate Weight #32
+887,fw33,9,Replicate Weight #33
+896,fw34,9,Replicate Weight #34
+905,fw35,9,Replicate Weight #35
+914,fw36,9,Replicate Weight #36
+923,fw37,9,Replicate Weight #37
+932,fw38,9,Replicate Weight #38
+941,fw39,9,Replicate Weight #39
+950,fw40,9,Replicate Weight #40
+959,fw41,9,Replicate Weight #41
+968,fw42,9,Replicate Weight #42
+977,fw43,9,Replicate Weight #43
+986,fw44,9,Replicate Weight #44
+995,fw45,9,Replicate Weight #45
+1004,fw46,9,Replicate Weight #46
+1013,fw47,9,Replicate Weight #47
+1022,fw48,9,Replicate Weight #48
+1031,fw49,9,Replicate Weight #49
+1040,fw50,9,Replicate Weight #50
+1049,fw51,9,Replicate Weight #51
+1058,fw52,9,Replicate Weight #52
+1067,fw53,9,Replicate Weight #53
+1076,fw54,9,Replicate Weight #54
+1085,fw55,9,Replicate Weight #55
+1094,fw56,9,Replicate Weight #56
+1103,fw57,9,Replicate Weight #57
+1112,fw58,9,Replicate Weight #58
+1121,fw59,9,Replicate Weight #59
+1130,fw60,9,Replicate Weight #60
+1139,fw61,9,Replicate Weight #61
+1148,fw62,9,Replicate Weight #62
+1157,fw63,9,Replicate Weight #63
+1166,fw64,9,Replicate Weight #64
+1175,fw65,9,Replicate Weight #65
+1184,fw66,9,Replicate Weight #66
+1193,fw67,9,Replicate Weight #67
+1202,fw68,9,Replicate Weight #68
+1211,fw69,9,Replicate Weight #69
+1220,fw70,9,Replicate Weight #70
+1229,fw71,9,Replicate Weight #71
+1238,fw72,9,Replicate Weight #72
+1247,fw73,9,Replicate Weight #73
+1256,fw74,9,Replicate Weight #74
+1265,fw75,9,Replicate Weight #75
+1274,fw76,9,Replicate Weight #76
+1283,fw77,9,Replicate Weight #77
+1292,fw78,9,Replicate Weight #78
+1301,fw79,9,Replicate Weight #79
+1310,fw80,9,Replicate Weight #80
+1319,il30per,5,30% HUD Income Limits
+1324,il50per,5,50% HUD Income Limits
+1329,il80per,5,80% HUD Income Limits

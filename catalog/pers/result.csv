@@ -1,0 +1,148 @@
+idx,var,len,item
+1,recid,1,Record Type
+2,boro,1,Borough
+3,person,2,Person number
+5,sex,1,Sex
+6,uf43,2,Age
+8,uf92,2,Relationship to householder
+10,hspanic,1,Hispanic Origin
+11,uf62,2,Race
+33,uf86,2,Person number of Spouse
+35,uf87,2,Person number of 1st parent
+37,uf88,2,Person number of 2nd parent
+39,uf3,1,Person from temporary residence
+40,item40a,1,Worked last week
+41,uf95,2,Hours worked last week
+43,item41,1,Temporarily Absent/Layoff
+44,item42,1,Looking for work
+45,uf89,2,
+47,item44,1,Last time worked
+48,item45c,1,Major Industry type
+57,uf90,1,Type of worker
+58,item48a,2,Weeks worked in 2016
+60,uf96,2,Hours worked in 2016
+63,uf18,7,Salary income
+70,uf18a,7,Business income
+77,uf18b,7,Interest income
+84,uf18c,7,Retirement(1) income
+91,uf18d,7,Government income
+98,uf18e,7,Retirement(2) income
+105,uf18f,7,Other income
+113,item50a,1,Current Enrollment in Job Training/Education
+114,eductn,2,Educational Attainment
+116,uf55,4,Year non-householder moved into unit
+121,uf41,7,Total person income
+128,uf41a,1,Person income flag
+129,uf44,1,Business income loss flag
+130,uf45,1,Interest income loss flag
+131,uf59,1,Labor force status recode
+132,chk_g,1,Check item g
+133,uf70,1,Race and Ethnicity
+134,uf60,1,Race Recode 1
+137,pw,9.5,Person weight
+146,seqno,6,Sequence number
+152,cd,2,Sub-borough Area
+154,flg_sx,1,Sex allocation flag
+155,flg_ag,1,Age allocation flag
+156,flg_hs,1,Hispanic origin flag
+157,flg_rc,1,Race allocation flag
+158,a1a40a,1,Worked last week flag
+159,a1a40b,1,Hours worked last week flag
+160,a1a41,1,Temporary absent/layoff flag
+161,a1a42,1,Looking for work flag
+162,a1a43,1,Reason not looking flag
+163,a1b44,1,Last time worked flag
+164,a1b45c,1,Major industry type flag
+165,a1b46a,1,Industry flag
+166,a1b46b,1,Occupation flag
+167,a1b47,1,Type of worker flag
+168,a1b48a,1,Weeks worked in 2016 flag
+169,a1b48b,1,Hours worked in 2016 flag
+170,a2salary,1,Salary flag
+171,a2businc,1,Business income flag
+172,aintinc,1,Interest income flag
+173,aret1inc,1,Retirement(1) income flag
+174,agovtinc,1,Government income flag
+175,aret2inc,1,Retirement(2) income flag
+176,aothinc,1,Other income flag
+177,flg_educ,1,Education flag
+178,pw1,9,Replicate Weight #1
+187,pw2,9,Replicate Weight #2
+196,pw3,9,Replicate Weight #3
+205,pw4,9,Replicate Weight #4
+214,pw5,9,Replicate Weight #5
+223,pw6,9,Replicate Weight #6
+232,pw7,9,Replicate Weight #7
+241,pw8,9,Replicate Weight #8
+250,pw9,9,Replicate Weight #9
+259,pw10,9,Replicate Weight #10
+268,pw11,9,Replicate Weight #11
+277,pw12,9,Replicate Weight #12
+286,pw13,9,Replicate Weight #13
+295,pw14,9,Replicate Weight #14
+304,pw15,9,Replicate Weight #15
+313,pw16,9,Replicate Weight #16
+322,pw17,9,Replicate Weight #17
+331,pw18,9,Replicate Weight #18
+340,pw19,9,Replicate Weight #19
+349,pw20,9,Replicate Weight #20
+358,pw21,9,Replicate Weight #21
+367,pw22,9,Replicate Weight #22
+376,pw23,9,Replicate Weight #23
+385,pw24,9,Replicate Weight #24
+394,pw25,9,Replicate Weight #25
+403,pw26,9,Replicate Weight #26
+412,pw27,9,Replicate Weight #27
+421,pw28,9,Replicate Weight #28
+430,pw29,9,Replicate Weight #29
+439,pw30,9,Replicate Weight #30
+448,pw31,9,Replicate Weight #31
+457,pw32,9,Replicate Weight #32
+466,pw33,9,Replicate Weight #33
+475,pw34,9,Replicate Weight #34
+484,pw35,9,Replicate Weight #35
+493,pw36,9,Replicate Weight #36
+502,pw37,9,Replicate Weight #37
+511,pw38,9,Replicate Weight #38
+520,pw39,9,Replicate Weight #39
+529,pw40,9,Replicate Weight #40
+538,pw41,9,Replicate Weight #41
+547,pw42,9,Replicate Weight #42
+556,pw43,9,Replicate Weight #43
+565,pw44,9,Replicate Weight #44
+574,pw45,9,Replicate Weight #45
+583,pw46,9,Replicate Weight #46
+592,pw47,9,Replicate Weight #47
+601,pw48,9,Replicate Weight #48
+610,pw49,9,Replicate Weight #49
+619,pw50,9,Replicate Weight #50
+628,pw51,9,Replicate Weight #51
+637,pw52,9,Replicate Weight #52
+646,pw53,9,Replicate Weight #53
+655,pw54,9,Replicate Weight #54
+664,pw55,9,Replicate Weight #55
+673,pw56,9,Replicate Weight #56
+682,pw57,9,Replicate Weight #57
+691,pw58,9,Replicate Weight #58
+700,pw59,9,Replicate Weight #59
+709,pw60,9,Replicate Weight #60
+718,pw61,9,Replicate Weight #61
+727,pw62,9,Replicate Weight #62
+736,pw63,9,Replicate Weight #63
+745,pw64,9,Replicate Weight #64
+754,pw65,9,Replicate Weight #65
+763,pw66,9,Replicate Weight #66
+772,pw67,9,Replicate Weight #67
+781,pw68,9,Replicate Weight #68
+790,pw69,9,Replicate Weight #69
+799,pw70,9,Replicate Weight #70
+808,pw71,9,Replicate Weight #71
+817,pw72,9,Replicate Weight #72
+826,pw73,9,Replicate Weight #73
+835,pw74,9,Replicate Weight #74
+844,pw75,9,Replicate Weight #75
+853,pw76,9,Replicate Weight #76
+862,pw77,9,Replicate Weight #77
+871,pw78,9,Replicate Weight #78
+880,pw79,9,Replicate Weight #79
+889,pw80,9,Replicate Weight #80

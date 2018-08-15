@@ -22,7 +22,7 @@ processLine = function(line, catDf) {
   return(df)
 }
 
-processFile = function(dataFilepath, catFilepath) {
+processFile = function(dataFilepath, catFilepath, outputFile) {
   # dataFilepath: string path to data csv
   # catFilepath: string path to microdata catalog csv
   #              as parsed by catalog/*.py files
@@ -44,7 +44,7 @@ processFile = function(dataFilepath, catFilepath) {
   }
 
   df = rbind.fill(dataFrames)
-  write.csv(df, 'out.csv')
+  write.csv(df, outputFile)
 
   close(con)
 }
@@ -56,7 +56,7 @@ processFile = function(dataFilepath, catFilepath) {
 args = commandArgs(trailingOnly=TRUE)
 
 if (length(args)<2) {
-  stop("At least two arguments must be supplied (input file, catalog file).", call.=FALSE)
+  stop("At least two arguments must be supplied (input file, catalog csv file, output file).", call.=FALSE)
 }
 
-processFile(args[1], args[2])
+processFile(args[1], args[2], args[3])
