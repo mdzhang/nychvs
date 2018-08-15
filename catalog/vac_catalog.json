@@ -1,10 +1,7 @@
+Unmatched var recid
+Bad label line uf33='Stories in building';
+
 [
-  {
-    "idx": "1",
-    "item": "Record Type",
-    "len": "1",
-    "var": "recid"
-  },
   {
     "idx": "2",
     "item": "Borough",
@@ -168,1437 +165,691 @@
     "var": "sc38"
   },
   {
+    "idx": "31",
+    "item": "Vacant unit respondent",
+    "len": "1",
+    "var": "sc30"
+  },
+  {
+    "idx": "32",
+    "item": "First occupancy",
+    "len": "1",
+    "var": "sc518"
+  },
+  {
     "idx": "33",
-    "item": "Sex of householder",
-    "len": "1",
-    "var": "hhr2"
-  },
-  {
-    "idx": "34",
-    "item": "Age of householder",
-    "len": "2",
-    "var": "hhr3t"
-  },
-  {
-    "idx": "36",
-    "item": "Hispanic origin",
-    "len": "1",
-    "var": "hhr5"
-  },
-  {
-    "idx": "37",
-    "item": "Race of householder",
-    "len": "2",
-    "var": "uf61"
-  },
-  {
-    "idx": "60",
-    "item": "Number of persons from temporary residence",
-    "len": "1",
-    "var": "uf2a_1"
-  },
-  {
-    "idx": "61",
-    "item": "Most recent place lived",
-    "len": "2",
-    "var": "uf79"
-  },
-  {
-    "idx": "66",
-    "item": "Year Householder Moved into Unit Recode",
-    "len": "4",
-    "var": "uf66"
-  },
-  {
-    "idx": "70",
-    "item": "First occupants of unit",
-    "len": "1",
-    "var": "sc54"
-  },
-  {
-    "idx": "71",
-    "item": "Reason for moving",
-    "len": "2",
-    "var": "uf67"
-  },
-  {
-    "idx": "73",
-    "item": "Place of birth-householder",
-    "len": "2",
-    "var": "sc111"
-  },
-  {
-    "idx": "75",
-    "item": "Place of birth-father",
-    "len": "2",
-    "var": "sc112"
-  },
-  {
-    "idx": "77",
-    "item": "Place of birth-mother",
-    "len": "2",
-    "var": "sc113"
-  },
-  {
-    "idx": "79",
-    "item": "Coop/condo status",
-    "len": "1",
-    "var": "sc114"
-  },
-  {
-    "idx": "80",
-    "item": "Tenure(1)",
-    "len": "1",
-    "var": "sc115"
-  },
-  {
-    "idx": "81",
-    "item": "Tenure(2)",
-    "len": "1",
-    "var": "sc116"
-  },
-  {
-    "idx": "82",
-    "item": "Lived in unit at time of coop/condo conversion",
-    "len": "1",
-    "var": "sc117"
-  },
-  {
-    "idx": "83",
-    "item": "Coop/condo conv. through a non-eviction plan",
-    "len": "1",
-    "var": "sc118"
-  },
-  {
-    "idx": "88",
-    "item": "Occupancy status before acquisition",
-    "len": "1",
-    "var": "sc120"
-  },
-  {
-    "idx": "89",
-    "item": "Condo/Coop before acquisition",
-    "len": "1",
-    "var": "sc121"
-  },
-  {
-    "idx": "98",
-    "item": "Down payment(1)",
-    "len": "7",
-    "var": "uf5"
-  },
-  {
-    "idx": "105",
-    "item": "Down payment(2)",
-    "len": "1",
-    "var": "sc125"
-  },
-  {
-    "idx": "106",
-    "item": "Value",
-    "len": "7",
-    "var": "uf6"
-  },
-  {
-    "idx": "113",
-    "item": "Mortgage status",
-    "len": "1",
-    "var": "sc127"
-  },
-  {
-    "idx": "120",
-    "item": "When Did Most Recent Mortgage Originate",
-    "len": "4",
-    "var": "uf68"
-  },
-  {
-    "idx": "124",
-    "item": "Current Interest Rate",
-    "len": "4",
-    "var": "uf7a"
-  },
-  {
-    "idx": "131",
-    "item": "Fire and liability insurance paid separately",
-    "len": "1",
-    "var": "sc141"
-  },
-  {
-    "idx": "132",
-    "item": "Real estate taxes paid separately",
-    "len": "1",
-    "var": "sc144"
-  },
-  {
-    "idx": "140",
-    "item": "Units in building",
+    "item": "Number of units in building",
     "len": "2",
     "var": "uf47"
   },
   {
-    "idx": "142",
+    "idx": "35",
     "item": "Owner in building",
     "len": "1",
-    "var": "sc147"
+    "var": "sc520"
   },
   {
-    "idx": "143",
-    "item": "Stories in building",
+    "idx": "36",
     "len": "2",
-    "var": "uf11"
+    "var": "uf33"
   },
   {
-    "idx": "147",
+    "idx": "40",
     "item": "Elevator in building",
     "len": "1",
-    "var": "sc149"
+    "var": "sc522"
   },
   {
-    "idx": "148",
+    "idx": "41",
     "item": "Sidewalk to elevator",
     "len": "1",
-    "var": "sc173"
+    "var": "sc553"
   },
   {
-    "idx": "149",
+    "idx": "42",
     "item": "Sidewalk to unit",
     "len": "1",
-    "var": "sc171"
+    "var": "sc555"
   },
   {
-    "idx": "150",
-    "item": "Number of rooms",
+    "idx": "43",
+    "item": "Number of Rooms",
     "len": "2",
     "var": "uf77"
   },
   {
-    "idx": "152",
-    "item": "Number of bedrooms",
+    "idx": "45",
+    "item": "Number of Bedrooms",
     "len": "2",
     "var": "uf78"
   },
   {
-    "idx": "154",
+    "idx": "47",
     "item": "Complete plumbing facilities",
     "len": "1",
     "var": "uf81"
   },
   {
-    "idx": "155",
-    "item": "Toilet breakdown",
-    "len": "1",
-    "var": "uf82"
-  },
-  {
-    "idx": "156",
-    "item": "Complete kitchen facilities",
+    "idx": "48",
+    "item": "Kitchen facilities",
     "len": "1",
     "var": "uf83"
   },
   {
-    "idx": "158",
-    "item": "Kitchen facilities functioning",
+    "idx": "49",
+    "item": "Type of Heating Fuel",
     "len": "1",
-    "var": "sc157"
+    "var": "sc529"
   },
   {
-    "idx": "159",
-    "item": "Type of heating fuel",
+    "idx": "50",
+    "item": "Condo/Coop Status",
     "len": "1",
-    "var": "sc158"
+    "var": "sc530"
   },
   {
-    "idx": "160",
-    "item": "Electricity-paid separately",
+    "idx": "51",
+    "item": "Duration of Vacancy",
     "len": "1",
-    "var": "sc159"
+    "var": "sc531"
   },
   {
-    "idx": "161",
-    "item": "Monthly electricity cost",
-    "len": "4",
-    "var": "uf12"
-  },
-  {
-    "idx": "165",
-    "item": "Gas-paid separately",
+    "idx": "52",
+    "item": "Status Prior to Vacancy",
     "len": "1",
-    "var": "sc161"
+    "var": "sc532"
   },
   {
-    "idx": "166",
-    "item": "Monthly gas cost",
-    "len": "4",
-    "var": "uf13"
-  },
-  {
-    "idx": "170",
-    "item": "Combined gas/electricity",
-    "len": "4",
-    "var": "uf14"
-  },
-  {
-    "idx": "174",
-    "item": "Water and sewer-paid separately",
+    "idx": "53",
+    "item": "Condo/Coop Status Before Vacancy",
     "len": "1",
-    "var": "sc164"
+    "var": "sc533"
   },
   {
-    "idx": "175",
-    "item": "Yearly water and sewer cost",
-    "len": "4",
-    "var": "uf15"
-  },
-  {
-    "idx": "179",
-    "item": "Other fuels-paid separately",
+    "idx": "54",
+    "item": "Status of Vacant Unit",
     "len": "1",
-    "var": "sc166"
+    "var": "sc534"
   },
   {
-    "idx": "180",
-    "item": "Yearly cost for other fuels",
+    "idx": "55",
+    "item": "Reason Unit Not Available for Rent/Sale",
+    "len": "1",
+    "var": "uf80"
+  },
+  {
+    "idx": "57",
+    "item": "Monthly Asking Rent",
     "len": "5",
-    "var": "uf16"
+    "var": "uf31"
   },
   {
-    "idx": "191",
-    "item": "Contract rent",
-    "len": "5",
-    "var": "uf17"
-  },
-  {
-    "idx": "196",
-    "item": "Length of lease",
-    "len": "1",
-    "var": "sc181"
-  },
-  {
-    "idx": "206",
-    "item": "Federal section 8",
-    "len": "1",
-    "var": "sc541"
-  },
-  {
-    "idx": "223",
-    "item": "Out of pocket rent",
-    "len": "5",
-    "var": "uf17a"
-  },
-  {
-    "idx": "228",
-    "item": "Heating equipment breakdown",
-    "len": "1",
-    "var": "sc185"
-  },
-  {
-    "idx": "229",
-    "item": "Number of heating breakdowns",
-    "len": "1",
-    "var": "sc186"
-  },
-  {
-    "idx": "230",
-    "item": "Functioning Air Conditioning",
-    "len": "1",
-    "var": "sc197"
-  },
-  {
-    "idx": "236",
-    "item": "Additional sources of heat",
-    "len": "1",
-    "var": "sc187"
-  },
-  {
-    "idx": "237",
-    "item": "Presence of mice and rates",
-    "len": "1",
-    "var": "sc188"
-  },
-  {
-    "idx": "238",
-    "item": "Number of Cockroaches",
-    "len": "1",
-    "var": "sc571"
-  },
-  {
-    "idx": "239",
-    "item": "Exterminator service",
-    "len": "1",
-    "var": "sc189"
-  },
-  {
-    "idx": "240",
-    "item": "Cracks/holes in interior walls",
-    "len": "1",
-    "var": "sc190"
-  },
-  {
-    "idx": "241",
-    "item": "Holes in floors",
-    "len": "1",
-    "var": "sc191"
-  },
-  {
-    "idx": "242",
-    "item": "Broken plaster/peeling paint",
-    "len": "1",
-    "var": "sc192"
-  },
-  {
-    "idx": "243",
-    "item": "Plaster/paint> 8.5 x 11",
-    "len": "1",
-    "var": "sc193"
-  },
-  {
-    "idx": "244",
-    "item": "Water leakage",
-    "len": "1",
-    "var": "sc194"
-  },
-  {
-    "idx": "245",
-    "item": "Respondent rating of structures in neighborhood",
-    "len": "1",
-    "var": "sc196"
-  },
-  {
-    "idx": "256",
-    "item": "Land-line Telephone in House",
-    "len": "1",
-    "var": "sc575"
-  },
-  {
-    "idx": "257",
-    "item": "Number of Adults with a cell phone",
-    "len": "1",
-    "var": "uf72"
-  },
-  {
-    "idx": "259",
-    "item": "General Health (respondent)",
-    "len": "1",
-    "var": "sc574"
-  },
-  {
-    "idx": "260",
-    "item": "Medical device in home",
-    "len": "1",
-    "var": "sc198"
-  },
-  {
-    "idx": "261",
-    "item": "Dental",
-    "len": "1",
-    "var": "sc647"
-  },
-  {
-    "idx": "262",
-    "item": "Preventative care/check-up",
-    "len": "1",
-    "var": "sc648"
-  },
-  {
-    "idx": "263",
-    "item": "Mental health",
-    "len": "1",
-    "var": "sc649"
-  },
-  {
-    "idx": "264",
-    "item": "Treatment or diagnosis of illness",
-    "len": "1",
-    "var": "sc650"
-  },
-  {
-    "idx": "265",
-    "item": "Prescription drugs",
-    "len": "1",
-    "var": "sc651"
-  },
-  {
-    "idx": "266",
-    "item": "One or more utility",
-    "len": "1",
-    "var": "sc131"
-  },
-  {
-    "idx": "267",
-    "item": "Landline telephone",
-    "len": "1",
-    "var": "sc132"
-  },
-  {
-    "idx": "268",
-    "item": "Cell phone",
-    "len": "1",
-    "var": "sc136"
-  },
-  {
-    "idx": "269",
-    "item": "Cable/internet",
-    "len": "1",
-    "var": "sc137"
-  },
-  {
-    "idx": "270",
-    "item": "Other",
-    "len": "1",
-    "var": "sc138"
-  },
-  {
-    "idx": "271",
-    "item": "Affordable",
-    "len": "1",
-    "var": "sc168"
-  },
-  {
-    "idx": "272",
-    "item": "Too expensive given its condition",
-    "len": "1",
-    "var": "sc169"
-  },
-  {
-    "idx": "273",
-    "item": "Too expensive given its location",
-    "len": "1",
-    "var": "sc183"
-  },
-  {
-    "idx": "274",
-    "item": "Moved to the US as immigrant",
-    "len": "1",
-    "var": "sc560"
-  },
-  {
-    "idx": "275",
-    "item": "Year moved to US as immigrant",
-    "len": "4",
-    "var": "uf53"
-  },
-  {
-    "idx": "279",
-    "item": "Year moved to NYC",
-    "len": "4",
-    "var": "uf54"
-  },
-  {
-    "idx": "412",
-    "item": "New control status recode",
+    "idx": "68",
+    "item": "New Control Status Recode",
     "len": "2",
     "var": "uf_csr"
   },
   {
-    "idx": "414",
-    "item": "Structure class recode",
+    "idx": "70",
+    "item": "Structure Class Recode",
     "len": "2",
     "var": "uf74"
   },
   {
-    "idx": "416",
-    "item": "Type of schedule code",
+    "idx": "72",
+    "item": "Type of Schedule",
     "len": "2",
     "var": "uf76"
   },
   {
-    "idx": "419",
-    "item": "Year built recode",
+    "idx": "74",
+    "item": "Year Built Recode",
     "len": "2",
     "var": "uf23"
   },
   {
-    "idx": "421",
-    "item": "Condition of unit recode",
+    "idx": "76",
+    "item": "Rent per Room Recode",
+    "len": "4",
+    "var": "uf32"
+  },
+  {
+    "idx": "80",
+    "item": "Condition of Building",
     "len": "1",
     "var": "rec21"
   },
   {
-    "idx": "422",
-    "item": "Respondent line number",
-    "len": "2",
-    "var": "uf71"
-  },
-  {
-    "idx": "424",
-    "item": "Household composition recode",
-    "len": "2",
-    "var": "rec1"
-  },
-  {
-    "idx": "426",
-    "item": "Presence of nonrelatives",
-    "len": "1",
-    "var": "uf46"
-  },
-  {
-    "idx": "427",
-    "item": "Race and Ethnicity of householder",
-    "len": "1",
-    "var": "uf69"
-  },
-  {
-    "idx": "428",
-    "item": "Race Recode 1",
-    "len": "1",
-    "var": "uf60"
-  },
-  {
-    "idx": "429",
-    "item": "Monthly owner cost recode",
-    "len": "6",
-    "var": "uf105"
-  },
-  {
-    "idx": "438",
-    "item": "Number of 1987 maintenance deficiencies",
-    "len": "1",
-    "var": "rec54"
-  },
-  {
-    "idx": "439",
-    "item": "Number of 2017 maintenance deficiencies",
-    "len": "1",
-    "var": "rec53"
-  },
-  {
-    "idx": "440",
-    "item": "Total persons recode",
-    "len": "2",
-    "var": "tot_per"
-  },
-  {
-    "idx": "442",
-    "item": "Persons per room",
-    "len": "3",
-    "var": "cppr"
-  },
-  {
-    "idx": "445",
-    "item": "Monthly gross rent",
-    "len": "5",
-    "var": "uf26"
-  },
-  {
-    "idx": "450",
-    "item": "Monthly gross rent per room recode",
-    "len": "4",
-    "var": "uf28"
-  },
-  {
-    "idx": "454",
-    "item": "Monthly contract rent per room recode",
-    "len": "4",
-    "var": "uf27"
-  },
-  {
-    "idx": "458",
-    "item": "Household below poverty",
-    "len": "1",
-    "var": "rec39"
-  },
-  {
-    "idx": "459",
-    "item": "Household income recode",
-    "len": "7",
-    "var": "uf42"
-  },
-  {
-    "idx": "466",
-    "item": "Household income flag",
-    "len": "1",
-    "var": "uf42a"
-  },
-  {
-    "idx": "467",
-    "item": "Salary",
-    "len": "7",
-    "var": "uf34"
-  },
-  {
-    "idx": "474",
-    "item": "Salary flag",
-    "len": "1",
-    "var": "uf34a"
-  },
-  {
-    "idx": "475",
-    "item": "Business income",
-    "len": "7",
-    "var": "uf35"
-  },
-  {
-    "idx": "482",
-    "item": "Business income flag",
-    "len": "1",
-    "var": "uf35a"
-  },
-  {
-    "idx": "483",
-    "item": "Interest income",
-    "len": "7",
-    "var": "uf36"
-  },
-  {
-    "idx": "490",
-    "item": "Interest income flag",
-    "len": "1",
-    "var": "uf36a"
-  },
-  {
-    "idx": "491",
-    "item": "Retirement income (1)",
-    "len": "7",
-    "var": "uf37"
-  },
-  {
-    "idx": "498",
-    "item": "Retirement income (1) flag",
-    "len": "1",
-    "var": "uf37a"
-  },
-  {
-    "idx": "499",
-    "item": "Government income",
-    "len": "7",
-    "var": "uf38"
-  },
-  {
-    "idx": "506",
-    "item": "Government income flag",
-    "len": "1",
-    "var": "uf38a"
-  },
-  {
-    "idx": "507",
-    "item": "Retirement income (2)",
-    "len": "7",
-    "var": "uf39"
-  },
-  {
-    "idx": "514",
-    "item": "Retirement income (2) flag",
-    "len": "1",
-    "var": "uf39a"
-  },
-  {
-    "idx": "515",
-    "item": "Other income",
-    "len": "7",
-    "var": "uf40"
-  },
-  {
-    "idx": "522",
-    "item": "Other income flag",
-    "len": "1",
-    "var": "uf40a"
-  },
-  {
-    "idx": "526",
-    "item": "Sub-borough area",
+    "idx": "81",
+    "item": "Sub-borough Area",
     "len": "2",
     "var": "cd"
   },
   {
-    "idx": "528",
-    "item": "Gross rent/income ratio",
-    "len": "4",
-    "var": "uf30"
-  },
-  {
-    "idx": "532",
-    "item": "Contract rent/income ratio",
-    "len": "4",
-    "var": "uf29"
-  },
-  {
-    "idx": "536",
-    "item": "Household members under 6",
-    "len": "1",
-    "var": "uf75"
-  },
-  {
-    "idx": "537",
-    "item": "Household members under 18",
-    "len": "1",
-    "var": "rec7"
-  },
-  {
-    "idx": "538",
-    "item": "Household weight",
-    "len": "9.5",
-    "var": "fw"
-  },
-  {
-    "idx": "547",
-    "item": "Final household weight",
-    "len": "9.5",
-    "var": "chufw"
-  },
-  {
-    "idx": "556",
-    "item": "Sequence number",
+    "idx": "83",
+    "item": "Sequence Number",
     "len": "6",
     "var": "seqno"
   },
   {
-    "idx": "571",
-    "item": "Sex of householder",
-    "len": "1",
-    "var": "flg_sx1"
+    "idx": "89",
+    "item": "Final Housing Unit Weight",
+    "len": "9.5",
+    "var": "fw"
   },
   {
-    "idx": "572",
-    "item": "Age of householder",
-    "len": "1",
-    "var": "flg_ag1"
-  },
-  {
-    "idx": "573",
-    "item": "Hispanic Origin",
-    "len": "1",
-    "var": "flg_hs1"
-  },
-  {
-    "idx": "574",
-    "item": "Race of householder",
-    "len": "1",
-    "var": "flg_rc1"
-  },
-  {
-    "idx": "575",
-    "item": "Year moved in flag",
-    "len": "1",
-    "var": "hflag2"
-  },
-  {
-    "idx": "576",
-    "item": "Year acquired flag",
-    "len": "1",
-    "var": "hflag1"
-  },
-  {
-    "idx": "577",
-    "item": "Value flag",
-    "len": "1",
-    "var": "hflag13"
-  },
-  {
-    "idx": "578",
+    "idx": "98",
     "item": "Stories in building flag",
     "len": "1",
     "var": "hflag6"
   },
   {
-    "idx": "579",
+    "idx": "99",
     "item": "Rooms/Bedrooms flag",
     "len": "1",
     "var": "hflag3"
   },
   {
-    "idx": "580",
-    "item": "Plumbing facilities flag",
+    "idx": "100",
+    "item": "Complete plumbing facilities flag",
     "len": "1",
-    "var": "hflag14"
+    "var": "hflag15"
   },
   {
-    "idx": "581",
-    "item": "Kitchen facilities flag",
+    "idx": "101",
+    "item": "Complete kitchen facilities flag",
     "len": "1",
-    "var": "hflag16"
+    "var": "hflag17"
   },
   {
-    "idx": "582",
+    "idx": "102",
     "item": "Type of heating fuel flag",
     "len": "1",
-    "var": "hflag7"
+    "var": "hflag8"
   },
   {
-    "idx": "583",
-    "item": "Electricity cost flag",
+    "idx": "103",
+    "item": "Monthly asking rent flag';FW1='Replicate Weight #1",
     "len": "1",
-    "var": "hflag9"
+    "var": "hflag5"
   },
   {
-    "idx": "584",
-    "item": "Gas cost flag",
-    "len": "1",
-    "var": "hflag10"
-  },
-  {
-    "idx": "585",
-    "item": "Combined gas/electricity cost flag",
-    "len": "1",
-    "var": "hflag91"
-  },
-  {
-    "idx": "586",
-    "item": "Water and sewer cost flag",
-    "len": "1",
-    "var": "hflag11"
-  },
-  {
-    "idx": "587",
-    "item": "Other fuels cost flag",
-    "len": "1",
-    "var": "hflag12"
-  },
-  {
-    "idx": "588",
-    "item": "Contract rent flag",
-    "len": "1",
-    "var": "hflag4"
-  },
-  {
-    "idx": "589",
-    "item": "Rental assistance flag",
-    "len": "1",
-    "var": "hflag18"
-  },
-  {
-    "idx": "591",
-    "item": "Household income flag",
-    "len": "1",
-    "var": "uf52h_h"
-  },
-  {
-    "idx": "592",
-    "item": "Salary income flag",
-    "len": "1",
-    "var": "uf52h_a"
-  },
-  {
-    "idx": "593",
-    "item": "Business income flag",
-    "len": "1",
-    "var": "uf52h_b"
-  },
-  {
-    "idx": "594",
-    "item": "Interest income flag",
-    "len": "1",
-    "var": "uf52h_c"
-  },
-  {
-    "idx": "595",
-    "item": "Retirement income(1) flag",
-    "len": "1",
-    "var": "uf52h_d"
-  },
-  {
-    "idx": "596",
-    "item": "Government income flag",
-    "len": "1",
-    "var": "uf52h_e"
-  },
-  {
-    "idx": "597",
-    "item": "Retirement income(2) flag",
-    "len": "1",
-    "var": "uf52h_f"
-  },
-  {
-    "idx": "598",
-    "item": "Other income flag",
-    "len": "1",
-    "var": "uf52h_g"
-  },
-  {
-    "idx": "599",
-    "item": "Replicate Weight #1",
+    "idx": "104",
     "len": "9",
     "var": "fw1"
   },
   {
-    "idx": "608",
+    "idx": "113",
     "item": "Replicate Weight #2",
     "len": "9",
     "var": "fw2"
   },
   {
-    "idx": "617",
+    "idx": "122",
     "item": "Replicate Weight #3",
     "len": "9",
     "var": "fw3"
   },
   {
-    "idx": "626",
+    "idx": "131",
     "item": "Replicate Weight #4",
     "len": "9",
     "var": "fw4"
   },
   {
-    "idx": "635",
+    "idx": "140",
     "item": "Replicate Weight #5",
     "len": "9",
     "var": "fw5"
   },
   {
-    "idx": "644",
+    "idx": "149",
     "item": "Replicate Weight #6",
     "len": "9",
     "var": "fw6"
   },
   {
-    "idx": "653",
+    "idx": "158",
     "item": "Replicate Weight #7",
     "len": "9",
     "var": "fw7"
   },
   {
-    "idx": "662",
+    "idx": "167",
     "item": "Replicate Weight #8",
     "len": "9",
     "var": "fw8"
   },
   {
-    "idx": "671",
+    "idx": "176",
     "item": "Replicate Weight #9",
     "len": "9",
     "var": "fw9"
   },
   {
-    "idx": "680",
+    "idx": "185",
     "item": "Replicate Weight #10",
     "len": "9",
     "var": "fw10"
   },
   {
-    "idx": "689",
+    "idx": "194",
     "item": "Replicate Weight #11",
     "len": "9",
     "var": "fw11"
   },
   {
-    "idx": "698",
+    "idx": "203",
     "item": "Replicate Weight #12",
     "len": "9",
     "var": "fw12"
   },
   {
-    "idx": "707",
+    "idx": "212",
     "item": "Replicate Weight #13",
     "len": "9",
     "var": "fw13"
   },
   {
-    "idx": "716",
+    "idx": "221",
     "item": "Replicate Weight #14",
     "len": "9",
     "var": "fw14"
   },
   {
-    "idx": "725",
+    "idx": "230",
     "item": "Replicate Weight #15",
     "len": "9",
     "var": "fw15"
   },
   {
-    "idx": "734",
+    "idx": "239",
     "item": "Replicate Weight #16",
     "len": "9",
     "var": "fw16"
   },
   {
-    "idx": "743",
+    "idx": "248",
     "item": "Replicate Weight #17",
     "len": "9",
     "var": "fw17"
   },
   {
-    "idx": "752",
+    "idx": "257",
     "item": "Replicate Weight #18",
     "len": "9",
     "var": "fw18"
   },
   {
-    "idx": "761",
+    "idx": "266",
     "item": "Replicate Weight #19",
     "len": "9",
     "var": "fw19"
   },
   {
-    "idx": "770",
+    "idx": "275",
     "item": "Replicate Weight #20",
     "len": "9",
     "var": "fw20"
   },
   {
-    "idx": "779",
+    "idx": "284",
     "item": "Replicate Weight #21",
     "len": "9",
     "var": "fw21"
   },
   {
-    "idx": "788",
+    "idx": "293",
     "item": "Replicate Weight #22",
     "len": "9",
     "var": "fw22"
   },
   {
-    "idx": "797",
+    "idx": "302",
     "item": "Replicate Weight #23",
     "len": "9",
     "var": "fw23"
   },
   {
-    "idx": "806",
+    "idx": "311",
     "item": "Replicate Weight #24",
     "len": "9",
     "var": "fw24"
   },
   {
-    "idx": "815",
+    "idx": "320",
     "item": "Replicate Weight #25",
     "len": "9",
     "var": "fw25"
   },
   {
-    "idx": "824",
+    "idx": "329",
     "item": "Replicate Weight #26",
     "len": "9",
     "var": "fw26"
   },
   {
-    "idx": "833",
+    "idx": "338",
     "item": "Replicate Weight #27",
     "len": "9",
     "var": "fw27"
   },
   {
-    "idx": "842",
+    "idx": "347",
     "item": "Replicate Weight #28",
     "len": "9",
     "var": "fw28"
   },
   {
-    "idx": "851",
+    "idx": "356",
     "item": "Replicate Weight #29",
     "len": "9",
     "var": "fw29"
   },
   {
-    "idx": "860",
+    "idx": "365",
     "item": "Replicate Weight #30",
     "len": "9",
     "var": "fw30"
   },
   {
-    "idx": "869",
+    "idx": "374",
     "item": "Replicate Weight #31",
     "len": "9",
     "var": "fw31"
   },
   {
-    "idx": "878",
+    "idx": "383",
     "item": "Replicate Weight #32",
     "len": "9",
     "var": "fw32"
   },
   {
-    "idx": "887",
+    "idx": "392",
     "item": "Replicate Weight #33",
     "len": "9",
     "var": "fw33"
   },
   {
-    "idx": "896",
+    "idx": "401",
     "item": "Replicate Weight #34",
     "len": "9",
     "var": "fw34"
   },
   {
-    "idx": "905",
+    "idx": "410",
     "item": "Replicate Weight #35",
     "len": "9",
     "var": "fw35"
   },
   {
-    "idx": "914",
+    "idx": "419",
     "item": "Replicate Weight #36",
     "len": "9",
     "var": "fw36"
   },
   {
-    "idx": "923",
+    "idx": "428",
     "item": "Replicate Weight #37",
     "len": "9",
     "var": "fw37"
   },
   {
-    "idx": "932",
+    "idx": "437",
     "item": "Replicate Weight #38",
     "len": "9",
     "var": "fw38"
   },
   {
-    "idx": "941",
+    "idx": "446",
     "item": "Replicate Weight #39",
     "len": "9",
     "var": "fw39"
   },
   {
-    "idx": "950",
+    "idx": "455",
     "item": "Replicate Weight #40",
     "len": "9",
     "var": "fw40"
   },
   {
-    "idx": "959",
+    "idx": "464",
     "item": "Replicate Weight #41",
     "len": "9",
     "var": "fw41"
   },
   {
-    "idx": "968",
+    "idx": "473",
     "item": "Replicate Weight #42",
     "len": "9",
     "var": "fw42"
   },
   {
-    "idx": "977",
+    "idx": "482",
     "item": "Replicate Weight #43",
     "len": "9",
     "var": "fw43"
   },
   {
-    "idx": "986",
+    "idx": "491",
     "item": "Replicate Weight #44",
     "len": "9",
     "var": "fw44"
   },
   {
-    "idx": "995",
+    "idx": "500",
     "item": "Replicate Weight #45",
     "len": "9",
     "var": "fw45"
   },
   {
-    "idx": "1004",
+    "idx": "509",
     "item": "Replicate Weight #46",
     "len": "9",
     "var": "fw46"
   },
   {
-    "idx": "1013",
+    "idx": "518",
     "item": "Replicate Weight #47",
     "len": "9",
     "var": "fw47"
   },
   {
-    "idx": "1022",
+    "idx": "527",
     "item": "Replicate Weight #48",
     "len": "9",
     "var": "fw48"
   },
   {
-    "idx": "1031",
+    "idx": "536",
     "item": "Replicate Weight #49",
     "len": "9",
     "var": "fw49"
   },
   {
-    "idx": "1040",
+    "idx": "545",
     "item": "Replicate Weight #50",
     "len": "9",
     "var": "fw50"
   },
   {
-    "idx": "1049",
+    "idx": "554",
     "item": "Replicate Weight #51",
     "len": "9",
     "var": "fw51"
   },
   {
-    "idx": "1058",
+    "idx": "563",
     "item": "Replicate Weight #52",
     "len": "9",
     "var": "fw52"
   },
   {
-    "idx": "1067",
+    "idx": "572",
     "item": "Replicate Weight #53",
     "len": "9",
     "var": "fw53"
   },
   {
-    "idx": "1076",
+    "idx": "581",
     "item": "Replicate Weight #54",
     "len": "9",
     "var": "fw54"
   },
   {
-    "idx": "1085",
+    "idx": "590",
     "item": "Replicate Weight #55",
     "len": "9",
     "var": "fw55"
   },
   {
-    "idx": "1094",
+    "idx": "599",
     "item": "Replicate Weight #56",
     "len": "9",
     "var": "fw56"
   },
   {
-    "idx": "1103",
+    "idx": "608",
     "item": "Replicate Weight #57",
     "len": "9",
     "var": "fw57"
   },
   {
-    "idx": "1112",
+    "idx": "617",
     "item": "Replicate Weight #58",
     "len": "9",
     "var": "fw58"
   },
   {
-    "idx": "1121",
+    "idx": "626",
     "item": "Replicate Weight #59",
     "len": "9",
     "var": "fw59"
   },
   {
-    "idx": "1130",
+    "idx": "635",
     "item": "Replicate Weight #60",
     "len": "9",
     "var": "fw60"
   },
   {
-    "idx": "1139",
+    "idx": "644",
     "item": "Replicate Weight #61",
     "len": "9",
     "var": "fw61"
   },
   {
-    "idx": "1148",
+    "idx": "653",
     "item": "Replicate Weight #62",
     "len": "9",
     "var": "fw62"
   },
   {
-    "idx": "1157",
+    "idx": "662",
     "item": "Replicate Weight #63",
     "len": "9",
     "var": "fw63"
   },
   {
-    "idx": "1166",
+    "idx": "671",
     "item": "Replicate Weight #64",
     "len": "9",
     "var": "fw64"
   },
   {
-    "idx": "1175",
+    "idx": "680",
     "item": "Replicate Weight #65",
     "len": "9",
     "var": "fw65"
   },
   {
-    "idx": "1184",
+    "idx": "689",
     "item": "Replicate Weight #66",
     "len": "9",
     "var": "fw66"
   },
   {
-    "idx": "1193",
+    "idx": "698",
     "item": "Replicate Weight #67",
     "len": "9",
     "var": "fw67"
   },
   {
-    "idx": "1202",
+    "idx": "707",
     "item": "Replicate Weight #68",
     "len": "9",
     "var": "fw68"
   },
   {
-    "idx": "1211",
+    "idx": "716",
     "item": "Replicate Weight #69",
     "len": "9",
     "var": "fw69"
   },
   {
-    "idx": "1220",
+    "idx": "725",
     "item": "Replicate Weight #70",
     "len": "9",
     "var": "fw70"
   },
   {
-    "idx": "1229",
+    "idx": "734",
     "item": "Replicate Weight #71",
     "len": "9",
     "var": "fw71"
   },
   {
-    "idx": "1238",
+    "idx": "743",
     "item": "Replicate Weight #72",
     "len": "9",
     "var": "fw72"
   },
   {
-    "idx": "1247",
+    "idx": "752",
     "item": "Replicate Weight #73",
     "len": "9",
     "var": "fw73"
   },
   {
-    "idx": "1256",
+    "idx": "761",
     "item": "Replicate Weight #74",
     "len": "9",
     "var": "fw74"
   },
   {
-    "idx": "1265",
+    "idx": "770",
     "item": "Replicate Weight #75",
     "len": "9",
     "var": "fw75"
   },
   {
-    "idx": "1274",
+    "idx": "779",
     "item": "Replicate Weight #76",
     "len": "9",
     "var": "fw76"
   },
   {
-    "idx": "1283",
+    "idx": "788",
     "item": "Replicate Weight #77",
     "len": "9",
     "var": "fw77"
   },
   {
-    "idx": "1292",
+    "idx": "797",
     "item": "Replicate Weight #78",
     "len": "9",
     "var": "fw78"
   },
   {
-    "idx": "1301",
+    "idx": "806",
     "item": "Replicate Weight #79",
     "len": "9",
     "var": "fw79"
   },
   {
-    "idx": "1310",
+    "idx": "815",
     "item": "Replicate Weight #80",
     "len": "9",
     "var": "fw80"
-  },
-  {
-    "idx": "1319",
-    "item": "30% HUD Income Limits",
-    "len": "5",
-    "var": "il30per"
-  },
-  {
-    "idx": "1324",
-    "item": "50% HUD Income Limits",
-    "len": "5",
-    "var": "il50per"
-  },
-  {
-    "idx": "1329",
-    "item": "80% HUD Income Limits",
-    "len": "5",
-    "var": "il80per"
   }
 ]
