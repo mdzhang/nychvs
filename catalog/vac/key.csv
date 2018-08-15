@@ -1,0 +1,394 @@
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+1,,Record Type,,,3=VACANT
+2,,Borough,,BORO,1=Bronx
+,,,,,2=Brooklyn
+,,,,,3=Manhattan
+,,,,,4=Queens
+,,,,,5=Staten Island
+3,,Blank,,,
+4-8,D,Condition of External Walls,001,UF1_1,"Missing bricks, siding, or other outside wall material or"
+,,,,,sloping or bulging outside walls
+,,,003,UF1_3,Major cracks in outside walls
+,,,004,UF1_4,"Loose or hanging cornice, roofing, or other material"
+,,,005,UF1_5,None of these problems with walls
+,,,006,UF1_6,Unable to observe walls
+,,,,,1=Response selected
+,,,,,8=No condition reported
+,,,,,9=Response not selected
+9-13,E,Condition of Windows,007,UF1_7,Broken or missing windows
+,,,008,UF1_8,Rotten/loose window frames/sashes
+,,,009,UF1_9,Boarded up windows
+,,,010,UF1_10,None of these problems with windows
+,,,011,UF1_11,Unable to observe windows
+,,,,,1=Response selected
+,,,,,8=No condition reported
+,,,,,9=Response not selected
+14-19,F,Condition of Stairways,012,UF1_12,"Loose, broken, or missing stair railings"
+,,(Exterior & Interior),013,UF1_13,"Loose, broken, or missing steps"
+,,,014,UF1_14,None of these problems with stairways
+,,,015,UF1_15,No interior steps or stairways
+,,,016,UF1_16,No exterior steps or stairways
+,,,035,UF1_35,Unable to observe stairways
+,,,,,1=Response selected
+,,,,,8=Condition not reported
+,,,,,9=Response not selected
+20-24,G,Condition of Floors,017,UF1_17,Sagging or sloping floors or slanted or shifted doorsills or door frames
+,,,019,UF1_19,Deep wear in floors causing depressions
+,,,020,UF1_20,Holes or missing flooring
+,,,021,UF1_21,None of these problems with floors
+,,,022,UF1_22,Unable to observe floors
+,,,,,1=Response selected
+,,,,,8=No condition reported
+,,,,,9=Response not selected
+25,,Blank,,,
+,,,3-36,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+26,H,Condition of Building,023,,1=Dilapidated
+,,(Observation),,,2=Sound
+,,,,,3=Deteriorating
+,,,,,8=Not reported
+27,I,Any Buildings with Broken,024,,1=Yes
+,,or Boarded-Up Windows,,,2=No
+,,(Observation),,,8=Not reported
+28,J (1),Wheelchair Accessibility - Street Entry,036,,1=Accessible
+,,and Inner Lobby Entry,,,2=Inaccessible
+,,,,,3=Unable to observe building entrance
+,,,,,8=Not reported
+29,J (2),Wheelchair Accessibility - Elevator,037,,1=Accessible
+,,,,,2=Inaccessible
+,,,,,3=Unable to observe elevator
+,,,,,4=No elevator
+,,,,,8=Not reported
+30,J (3),Wheelchair Accessibility - Residential Unit,038,,1=Accessible
+,,Entrance,,,2=Inaccessible
+,,,,,3=Unable to observe residential unit entrance
+,,,,,8=Not reported
+31,L,Vacant Unit Respondent,030,,1=Superintendent
+,,,,,2=Rental office/agent
+,,,,,3=Real estate agent/broker
+,,,,,4=Owner
+,,,,,5=Other
+,,,,,8=Not reported
+32,59,First Occupancy,518,,1=First Occupancy
+,,,,,2=Previously occupied
+,,,,,3=Don't know
+,,,,,8=Not reported
+33-34,60,Number of Units in Building,519,UF47,01=1 unit without business
+,,,,,02=1 unit with business
+,,,,,03=2 units without business
+,,,,,04=2 units with business
+,,,,,05=3 units
+,,,,,06=4 units
+,,,,,07=5 units
+,,,,,08=6 to 9 units
+,,,,,09=10 to 12 units
+,,,,,10=13 to 19 units
+,,,,,11=20 to 49 units
+,,,,,12=50 to 99 units
+,,,,,13=100 units or more
+,,,3-37,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+35,61,Owner in Building,520,,1=Yes
+,,,,,2=No
+,,,,,3=Do not know
+,,,,,8=Not reported
+36-37,62a,Stories in Building,521,UF33,01=1 to 2 stories
+,,,,,02=3 stories
+,,,,,03=4 stories
+,,,,,04=5 stories
+,,,,,05=6 to 10 stories
+,,,,,06=11 to 20 stories
+,,,,,07=21 stories or more
+38-39,,Blank,,,
+40,63a,Passenger Elevator in Building,522,,1=Yes
+,,,,,2=No
+41,63b,Sidewalk to Elevator without Using Steps,553,,1=Yes
+,,,,,2=No
+,,,,,3=Don't know
+,,,,,8=Not reported
+,,,,,9=Not applicable (no elevator in building)
+42,63c,Sidewalk to Unit without Using Steps,555,,1=Yes
+,,,,,2=No
+,,,,,3=Don't know
+,,,,,8=Not reported
+43-44,64a,Number of Rooms,523,UF77,01=1 room
+,,,,,..
+,,,,,08=8 rooms or more
+45-46,64b,Number of Bedrooms,524,UF78,01=No bedroom
+,,,,,..
+,,,,,07=6 bedrooms or more
+,,,3-38,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+47,65a,Complete Plumbing Facilities,525,UF81,"1=Yes, has complete plumbing facilities AND exclusive use"
+,,,,,"2=No, has some but not all facilities in this apartment (house), or no plumbing facilities in this"
+,,,,,apartment (house) AND/OR complete facilities in unit that are also intended for use by
+,,,,,another household or no complete plumbing facilities in apartment (house)
+48,66a,Complete Kitchen Facilities,527,UF83,"1=Yes, has complete kitchen facilities AND exclusive use"
+,,,,,"2=No, has some but not all facilities in this apartment (house), or no kitchen facilities in this apartment"
+,,,,,(house) AND/OR complete facilities in unit that are also intended for use by another household or no
+,,,,,complete kitchen facilities in apartment (house)
+49,67,Type of Heating Fuel,529,,1=Fuel oil
+,,,,,2=Utility gas
+,,,,,3=Electricity
+,,,,,4=Other fuel (including COM ED steam)
+50,68,Condo/Coop Status,530,,1=No
+,,,,,"2=Yes, a condominium"
+,,,,,"3=Yes, a cooperative"
+,,,,,4=Don't know
+,,,,,8=Not reported
+51,69,Duration of Vacancy,531,,1=Less than 1 month
+,,,,,2=1 to 2 months
+,,,,,3=2 to 3 months
+,,,,,4=3 to 6 months
+,,,,,5=6 to 12 months
+,,,,,6=1 year or more
+,,,,,8=Not reported
+52,70a,Status Prior to Vacancy,532,,1=Owner occupied
+,,,,,2=Renter occupied
+,,,,,3=Never previously occupied
+,,,,,4=Don't know
+,,,,,8=Not reported
+53,70b,Condo/Coop Status,533,,1=No
+,,Before Vacancy,,,"2=Yes, a condominium"
+,,,,,"3=Yes, a cooperative"
+,,,,,4=Don't know
+,,,,,8=Not reported
+54,71,Status of Vacant Unit,534,,1=Available for rent
+,,,,,2=Available for sale only
+,,,,,3=Not available for rent or sale
+,,,3-39,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+55-56,72,Reason Unit Not Available,535,UF80,"01=Rented, not yet occupied or Sold, not yet occupied"
+,,for Rent or for Sale,,,02=Unit or building is undergoing renovation
+,,,,,03=Unit or building is awaiting renovation
+,,,,,"04=Being converted to nonresidential purposes, legal dispute, or"
+,,,,,awaiting conversion to condominium or cooperative
+,,,,,"05=Held for occasional use, seasonal, or recreational use"
+,,,,,06=The owner cannot rent or sell at this time due to personal problems
+,,,,,"(e.g. age or illness), held pending sale of building, or held for planned demolition"
+,,,,,07=Held for other reasons
+,,,,,98=Not reported
+,,,,,99=Not applicable (available for rent or available for sale only)
+57-61,73,Monthly Asking Rent,536,UF31,00001=(Dollar amount)
+,,,,,..
+,,,,,..
+,,,,,"05865=$5,865 (topcode amount)"
+,,,,,8837=Mean amount above topcode
+,,,,,99999=Not applicable (available for sale only or not available
+,,,,,for rent or sale)
+62-67,,Blank,,,
+,,,3-40,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+,RECODES AND CODED ITEMS,,,,
+68-69,New Control Status Recode (CSR),,,UF_CSR,03=Vacant for sale-conventional
+,(Stabilized is the higher priority than HUD,,,New_CSR,04=Not available vacant
+,Regulated in this revision to the CSR.,,,,05=Public housing
+,Ex: A unit classified as both,,,,"07=Vacant for sale-private coop, condo"
+,HUD and Stabilized by HPD (City of NY),,,,21=HUD or other regulated
+,would now get the final classification as,,,,30=Stabilized pre 1947
+,Stabilized in this revision).,,,,31=Stabilized post 1947
+,(Since the 2005 NYCHVS),,,,80=Other rental
+,,,,,85=Mitchell Lama rental or Article 4
+,,,,,"86=Mitchell Lama cooperative, Mitchell Lama type cooperative"
+,,,,,95=In Rem
+70-71,Structure Class Recode,,,UF74,01=Old law tenement (built pre 1901)
+,,,,,02=New law tenement (built 1901-1929)
+,,,,,03=Multiple built after 1929 (including public housing)
+,,,,,04=Apartment hotel (built before 1929)
+,,,,,05=One or two family converted to apartments
+,,,,,06=Commercial building altered to apartments
+,,,,,07=Tenement building used for single-room occupancy or
+,,,,,One or two family converted to rooming house
+,,,,,08=Miscellaneous Class B Structure
+,,,,,09=Not reported
+,,,,,10=Not found
+,,,,,11=Data not available
+,,,,,12=One or two-family home
+72-73,Type of Schedule,,SC26,UF76,05=For sale
+,,,,,06=For rent
+,,,,,11=Not available
+74-75,Year Built Recode,,,UF23,01=2000 or later
+,,,,,02=1990 to 1999
+,,,,,03=1980 to 1989
+,,,,,04=1974 to 1979
+,,,,,05=1960 to 1973
+,,,,,06=1947 to 1959
+,,,,,07=1930 to 1946
+,,,,,08=1920 to 1929
+,,,,,09=1901 to 1919
+,,,,,10=1900 and earlier
+,,,3-41,,
+
+New York City Housing and Vacancy Survey,,,,
+2017 Record Layout,,,,
+Household Records -- Vacant Units--Continued,,,,
+Character,,Source,,
+,Item Number,Item Name,Variable Name,Code and Description
+Position,,Code,,
+76-79,Monthly Asking Rent Per Room,,UF32,"0000=Not computed (asking rent > $5,865)"
+,Recode,,REC34,0001=(Dollar amount)
+,,,,..
+,,,,..
+,,,,"5865=$5,865 (Highest dollar amount)"
+,,,,9999=Not applicable (available for sale only or not available
+,,,,for rent or sale)
+80,Condition of Building Recode,,REC21,1=Not dilapidated
+,,,,2=Dilapidated
+,,,,8=Condition not reported
+81-82,Sub-borough Area,,CD,01
+,,,,.
+,,,,.
+,,,,18
+83-88,Sequence Number,,SEQNO,000001-999999=Sequence number
+89-97,Housing Unit Weight,,FW,Final Housing Unit Weight
+,(5 implied decimal places),,,
+,,3-42,,
+
+New York City Housing and Vacancy Survey,,,,,
+2017 Record Layout,,,,,
+Household Records -- Vacant Units--Continued,,,,,
+Character,,,Source,,
+,Item Number,Item Name,,Variable Name,Code and Description
+Position,,,Code,,
+,,ALLOCATION FLAGS,,,
+98,61a,Stories in Building,521,HFLAG6,2=Allocated (default values)
+,,,,,1=Allocated
+,,,,,0=Not allocated
+99,64a/b,Number of Rooms/Bedrooms,523,HFLAG3,1=Allocated
+,,,,,0=Not allocated
+100,65a/b,Complete Plumbing Facilities,525,HFLAG15,2=Allocated (default values)
+,,,,,1=Allocated
+,,,,,0=Not allocated
+101,66a/b,Complete Kitchen Facilities,527,HFLAG17,2=Allocated (default values)
+,,,,,1=Allocated
+,,,,,0=Not allocated
+102,67,Type of Heating Fuel,529,HFLAG8,1=Allocated
+,,,,,0=Not allocated
+103,73,Monthly Asking Rent,536,HFLAG5,1=Allocated
+,,,,,0=Not allocated
+,,,3-43,,
+
+New York City Housing and Vacancy Survey,,,
+2017 Record Layout,,,
+Household Records -- Vacant Units--Continued,,,
+Character,Source,,
+Item Number,Item Name,Variable Name,Code and Description
+Position,Code,,
+REPLICATE WEIGHTS,,,
+(5 implied decimal places),,,
+104-112,FW1,,
+113-121,FW2,,
+122-130,FW3,,
+131-139,FW4,,
+140-148,FW5,,
+149-157,FW6,,
+158-166,FW7,,
+167-175,FW8,,
+176-184,FW9,,
+185-193,FW10,,
+194-202,FW11,,
+203-211,FW12,,
+212-220,FW13,,
+221-229,FW14,,
+230-238,FW15,,
+239-247,FW16,,
+248-256,FW17,,
+257-265,FW18,,
+266-274,FW19,,
+275-283,FW20,,
+284-292,FW21,,
+293-301,FW22,,
+302-310,FW23,,
+311-319,FW24,,
+320-328,FW25,,
+329-337,FW26,,
+338-346,FW27,,
+347-355,FW28,,
+356-364,FW29,,
+365-373,FW30,,
+374-382,FW31,,
+383-391,FW32,,
+392-400,FW33,,
+401-409,FW34,,
+410-418,FW35,,
+419-427,FW36,,
+428-436,FW37,,
+437-445,FW38,,
+446-454,FW39,,
+455-463,FW40,,
+464-472,FW41,,
+473-481,FW42,,
+482-490,FW43,,
+491-499,FW44,,
+500-508,FW45,,
+509-517,FW46,,
+518-526,FW47,,
+527-535,FW48,,
+536-544,FW49,,
+545-553,FW50,,
+554-562,FW51,,
+563-571,FW52,,
+572-580,FW53,,
+581-589,FW54,,
+590-598,FW55,,
+599-607,FW56,,
+608-616,FW57,,
+617-625,FW58,,
+626-634,FW59,,
+635-643,FW60,,
+644-652,FW61,,
+653-661,FW62,,
+662-670,FW63,,
+671-679,FW64,,
+680-688,FW65,,
+689-697,FW66,,
+698-706,FW67,,
+707-715,FW68,,
+716-724,FW69,,
+725-733,FW70,,
+734-742,FW71,,
+743-751,FW72,,
+752-760,FW73,,
+761-769,FW74,,
+770-778,FW75,,
+779-787,FW76,,
+788-796,FW77,,
+797-805,FW78,,
+806-814,FW79,,
+815-823,FW80,,
+,,,
