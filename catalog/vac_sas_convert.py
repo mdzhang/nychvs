@@ -1,6 +1,7 @@
 """Converts SAS import file to JSON to be used by R script
 Some light regex replace cleanup already done on vac*txt files.
 """
+import csv
 import json
 import re
 
@@ -43,4 +44,11 @@ with open('vac_labels.txt') as f:
 
         microdata_conf[var_name]['item'] = item_name
 
-print(json.dumps(list(microdata_conf.values()), sort_keys=True, indent=2))
+# print(json.dumps(list(microdata_conf.values()), sort_keys=True, indent=2))
+
+with open('out.csv', 'w') as f:
+    fields = ['idx', 'var', 'len', 'item']
+    wr = csv.DictWriter(f, fieldnames=fields)
+    wr.writeheader()
+    for d in microdata_conf.values():
+        wr.writerow(d)

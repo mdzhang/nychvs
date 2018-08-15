@@ -1,0 +1,144 @@
+idx,var,len,item
+1,recid,1,Record Type
+2,boro,1,Borough
+4,uf1_1,1,External Walls--Missing brick and sloping walls
+5,uf1_3,1,External Walls--Major cracks in walls
+6,uf1_4,1,External Walls--Loose or hanging cornice
+7,uf1_5,1,External Walls--No problems
+8,uf1_6,1,External Walls--Unable to observe
+9,uf1_7,1,Condition of Windows--Broken/missing
+10,uf1_8,1,Condition of Windows--Rotten/loose
+11,uf1_9,1,Condition of Windows--Boarded-up
+12,uf1_10,1,Condition of Windows--No problems
+13,uf1_11,1,Condition of Windows--Unable to observe
+14,uf1_12,1,Condition of Stairways--Loose/broken railings
+15,uf1_13,1,Condition of Stairways--Loose/broken steps
+16,uf1_14,1,Condition of Stairways--No problems
+17,uf1_15,1,Condition of Stairways--No interior steps
+18,uf1_16,1,Condition of Stairways--No exterior steps
+19,uf1_35,1,Condition of Stairways--Unable to observe
+20,uf1_17,1,Condition of Floors--Sagging/sloping and slanted doors
+21,uf1_19,1,Condition of Floors--Deep wear
+22,uf1_20,1,Condition of Floors--Holes/missing flooring
+23,uf1_21,1,Condition of Floors--None of these problems
+24,uf1_22,1,Condition of Floors--Unable to observe
+26,sc23,1,Condition of building
+27,sc24,1,Broken/Boarded Windows--observation
+28,sc36,1,Wheelchair accessibility--Street entry
+29,sc37,1,Wheelchair accessibility--Elevator
+30,sc38,1,Wheelchair accessibility--Unit entrance
+31,sc30,1,Vacant unit respondent
+32,sc518,1,First occupancy
+33,uf47,2,Number of units in building
+35,sc520,1,Owner in building
+36,uf33,2,Stories in building
+40,sc522,1,Elevator in building
+41,sc553,1,Sidewalk to elevator
+42,sc555,1,Sidewalk to unit
+43,uf77,2,Number of Rooms
+45,uf78,2,Number of Bedrooms
+47,uf81,1,Complete plumbing facilities
+48,uf83,1,Kitchen facilities
+49,sc529,1,Type of Heating Fuel
+50,sc530,1,Condo/Coop Status
+51,sc531,1,Duration of Vacancy
+52,sc532,1,Status Prior to Vacancy
+53,sc533,1,Condo/Coop Status Before Vacancy
+54,sc534,1,Status of Vacant Unit
+55,uf80,1,Reason Unit Not Available for Rent/Sale
+57,uf31,5,Monthly Asking Rent
+68,uf_csr,2,New Control Status Recode
+70,uf74,2,Structure Class Recode
+72,uf76,2,Type of Schedule
+74,uf23,2,Year Built Recode
+76,uf32,4,Rent per Room Recode
+80,rec21,1,Condition of Building
+81,cd,2,Sub-borough Area
+83,seqno,6,Sequence Number
+89,fw,9.5,Final Housing Unit Weight
+98,hflag6,1,Stories in building flag
+99,hflag3,1,Rooms/Bedrooms flag
+100,hflag15,1,Complete plumbing facilities flag
+101,hflag17,1,Complete kitchen facilities flag
+102,hflag8,1,Type of heating fuel flag
+103,hflag5,1,Monthly asking rent flag';FW1='Replicate Weight #1
+104,fw1,9,
+113,fw2,9,Replicate Weight #2
+122,fw3,9,Replicate Weight #3
+131,fw4,9,Replicate Weight #4
+140,fw5,9,Replicate Weight #5
+149,fw6,9,Replicate Weight #6
+158,fw7,9,Replicate Weight #7
+167,fw8,9,Replicate Weight #8
+176,fw9,9,Replicate Weight #9
+185,fw10,9,Replicate Weight #10
+194,fw11,9,Replicate Weight #11
+203,fw12,9,Replicate Weight #12
+212,fw13,9,Replicate Weight #13
+221,fw14,9,Replicate Weight #14
+230,fw15,9,Replicate Weight #15
+239,fw16,9,Replicate Weight #16
+248,fw17,9,Replicate Weight #17
+257,fw18,9,Replicate Weight #18
+266,fw19,9,Replicate Weight #19
+275,fw20,9,Replicate Weight #20
+284,fw21,9,Replicate Weight #21
+293,fw22,9,Replicate Weight #22
+302,fw23,9,Replicate Weight #23
+311,fw24,9,Replicate Weight #24
+320,fw25,9,Replicate Weight #25
+329,fw26,9,Replicate Weight #26
+338,fw27,9,Replicate Weight #27
+347,fw28,9,Replicate Weight #28
+356,fw29,9,Replicate Weight #29
+365,fw30,9,Replicate Weight #30
+374,fw31,9,Replicate Weight #31
+383,fw32,9,Replicate Weight #32
+392,fw33,9,Replicate Weight #33
+401,fw34,9,Replicate Weight #34
+410,fw35,9,Replicate Weight #35
+419,fw36,9,Replicate Weight #36
+428,fw37,9,Replicate Weight #37
+437,fw38,9,Replicate Weight #38
+446,fw39,9,Replicate Weight #39
+455,fw40,9,Replicate Weight #40
+464,fw41,9,Replicate Weight #41
+473,fw42,9,Replicate Weight #42
+482,fw43,9,Replicate Weight #43
+491,fw44,9,Replicate Weight #44
+500,fw45,9,Replicate Weight #45
+509,fw46,9,Replicate Weight #46
+518,fw47,9,Replicate Weight #47
+527,fw48,9,Replicate Weight #48
+536,fw49,9,Replicate Weight #49
+545,fw50,9,Replicate Weight #50
+554,fw51,9,Replicate Weight #51
+563,fw52,9,Replicate Weight #52
+572,fw53,9,Replicate Weight #53
+581,fw54,9,Replicate Weight #54
+590,fw55,9,Replicate Weight #55
+599,fw56,9,Replicate Weight #56
+608,fw57,9,Replicate Weight #57
+617,fw58,9,Replicate Weight #58
+626,fw59,9,Replicate Weight #59
+635,fw60,9,Replicate Weight #60
+644,fw61,9,Replicate Weight #61
+653,fw62,9,Replicate Weight #62
+662,fw63,9,Replicate Weight #63
+671,fw64,9,Replicate Weight #64
+680,fw65,9,Replicate Weight #65
+689,fw66,9,Replicate Weight #66
+698,fw67,9,Replicate Weight #67
+707,fw68,9,Replicate Weight #68
+716,fw69,9,Replicate Weight #69
+725,fw70,9,Replicate Weight #70
+734,fw71,9,Replicate Weight #71
+743,fw72,9,Replicate Weight #72
+752,fw73,9,Replicate Weight #73
+761,fw74,9,Replicate Weight #74
+770,fw75,9,Replicate Weight #75
+779,fw76,9,Replicate Weight #76
+788,fw77,9,Replicate Weight #77
+797,fw78,9,Replicate Weight #78
+806,fw79,9,Replicate Weight #79
+815,fw80,9,Replicate Weight #80
