@@ -7,11 +7,20 @@ processLine = function(line) {
 
   recordType = substr(line, 1, 1)
   boro = substr(line, 2, 2)
-  extWallConds = substr(line, 4, 8)
+  uf1_1 = substr(line, 4, 4)
+  uf1_3 = substr(line, 5, 5)
+  uf1_4 = substr(line, 6, 6)
+  uf1_5 = substr(line, 7, 7)
+  uf1_6 = substr(line, 8, 8)
 
   df = data.frame(
     'recordType' = recordType,
-    'boro' = boro
+    'boro' = boro,
+    'uf1_1' = uf1_1,
+    'uf1_3' = uf1_3,
+    'uf1_4' = uf1_4,
+    'uf1_5' = uf1_5,
+    'uf1_6' = uf1_6
   )
 
   return(df)
